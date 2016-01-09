@@ -37,7 +37,7 @@
     "name": "eonasdan-bootstrap-datetimepicker",
     "repository": {
         "type": "git",
-        "url": "https://github.com/eonasdan/bootstrap-datetimepicker.git"
+        "url": "https://github.com/konode001/bootstrap-datetimepicker.git"
     },
     "version": "4.17.37"
 }
