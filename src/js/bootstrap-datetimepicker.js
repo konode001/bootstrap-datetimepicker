@@ -2394,7 +2394,7 @@
         tooltips: {
             today: 'Go to today',
             clear: 'Clear selection',
-            close: 'Close the picker',
+            close: 'Close the date picker',
             selectMonth: 'Select Month',
             prevMonth: 'Previous Month',
             nextMonth: 'Next Month',
